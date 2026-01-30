@@ -16,3 +16,5 @@ A simple Windows Forms application that collects student information and display
 
 ## Screenshot
 ![Student Registration Form](screenshots/student-form.png)
+## Author
+- LinkedIn: https://www.linkedin.com/in/berkanyelken/
